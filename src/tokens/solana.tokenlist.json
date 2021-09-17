@@ -14067,3 +14067,15 @@
     "patch": 2
   }
 }
+    {
+      "chainId": 101,
+      "address": "F1hEJsz7U8UFRXJmdfvw7eUMz6Xd9r9CAykmJwDuuqeF",
+      "symbol": "SHUSHA",
+      "name": "ShushaCoin",
+      "decimals": 8,
+      "logoURI": "https://phototass1.cdnvideo.ru/width/1020_b9261fa1/tass/m2/en/uploads/i/20201109/1291067.jpg",
+      "tags": [],
+      "extensions": {
+        "Instagram": "https://www.instagram.com/shushacoin/",
+        "twitter": "https://twitter.com/shushacoin",
+      }
