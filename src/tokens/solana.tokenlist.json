@@ -14060,6 +14060,21 @@
         "discord": "https://discord.gg/TAgndUz2Fc"
       }
     }
+    {
+      "chainId": 101,
+      "address": "2c6LmNGcR7wM2j1G8yieNgpFY94CY1STAcfuj2eoFfUv",
+      "symbol": "SHUSHA",
+      "name": "ShushaCoin",
+      "decimals": 8,
+      "logoURI": "https://idea.az/uploads/blog/Snapseed.jpg",
+      "tags": [
+        "Karabakh is Azerbaijan!"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/shushacoin/",
+        "twitter": "https://twitter.com/ShushaCoin",
+      }
+    },
   ],
   "version": {
     "major": 0,
